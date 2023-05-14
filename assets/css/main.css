@@ -5113,7 +5113,8 @@ a img {
     padding: 10px 0;
     margin-top: 100px;
     text-align: center;
-    color: #fff
+    color: #fff;
+    padding-top: 40px;
 }
 
 .footer .love {
